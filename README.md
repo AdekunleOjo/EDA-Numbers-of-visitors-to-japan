@@ -24,7 +24,11 @@ I created another table called month to find the unique value for month to match
 
 ![month](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/8d4785cb-2263-4367-905d-54e335a5a83a)
 
-And then I joined the table together by the month column for each table using one to many relationship
+And then I joined the tables together by the month column for each table using one to many relationship
+![modeling](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/9dc82e93-bcea-4ff7-8090-dc9457684c34).
+
+## Visualization and Dashoard
+
 
 
 
