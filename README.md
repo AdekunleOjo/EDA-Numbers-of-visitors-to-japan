@@ -8,7 +8,17 @@ I got the dataset from kaggle. https://www.kaggle.com/datasets/risakashiwabara/j
 
 very many people are coming to japan, in this issue, I will show the number of people coming to Japan by month and by year, and also the number of people coming to Japan by Countries.
 
+# Tool Used
+Power BI (Power query, DAX)
+
 # Data Preparation
 ## Data transformation
 The data was already cleaned but there was errors for some data type columns
+![transform](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/9b46e5bb-c9ea-4ac0-8f10-ee47150d67fc)
+
+For the visitor's column, i changed the data type from text to Whole number because the the data type is numeric and i also changed the data type for the Year column to Whole number.
+
+## Data modeling
+i created another table called month to find the unique value for month to match each value in the Montly visisting Table
+
 
