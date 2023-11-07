@@ -31,8 +31,11 @@ And then I joined the tables together by the month column for each table using o
 ![japan](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/601b1ae5-492b-4b0c-a927-6a1d9303a8c1)
 
 ## Uncovered insights
---lll
---kkk
+- Averagely over 40,000 people are entering japan daily for (2017-2023)
+- Over 100 million people have entered japan within the last 7 years
+- China, South korea and Taiwan topped the chart as the most visited countries to japan with china having over 27 million travellers within the last 7 years
+- January, April, and june are people's favourite month to visit japan, while september was recorded the lowest.
+- Visitor arrivals to japan reduced drastically on 2020, i think this is due to the covid-virus outbreak, most places were lockdown around the world and travellers were restricted.
 
 
 
