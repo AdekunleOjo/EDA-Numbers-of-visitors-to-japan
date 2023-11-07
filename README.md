@@ -14,11 +14,19 @@ Power BI (Power query, DAX)
 # Data Preparation
 ## Data transformation
 The data was already cleaned but there was errors for some data type columns
+
 ![transform](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/9b46e5bb-c9ea-4ac0-8f10-ee47150d67fc)
 
 For the visitor's column, i changed the data type from text to Whole number because the the data type is numeric and i also changed the data type for the Year column to Whole number.
 
 ## Data modeling
-i created another table called month to find the unique value for month to match each value in the Montly visisting Table
+I created another table called month to find the unique value for month to match each value in the Montly visiting Table
+
+![month](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/8d4785cb-2263-4367-905d-54e335a5a83a)
+
+And then I joined the table together by the month column for each table using one to many relationship
+
+
+
 
 
