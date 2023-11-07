@@ -1,7 +1,7 @@
 # EDA-Numbers-of-visitors-to-japan
 
 ## INTRODUCTION
-From 2017 to 2023, Japan has witnessed a significant growth in the number of foreign visitors. Over this period, the country has become an increasingly popular destination for travelers from all around the world. With its unique blend of traditional culture and modern amenities, Japan offers a captivating experience that appeals to a wide range of interests. In recent years, the Japanese government has actively promoted tourism, aiming to attract 40 million foreign visitors by 2020, an ambitious goal that was eventually achieved. This successful campaign, combined with the country's hosting of major international events such as the Rugby World Cup in 2019 and the Summer Olympics in 2021, has further boosted Japan's reputation as a must-visit destination. During this period, Japan has made great strides in facilitating travel for foreign visitors, including loosening visa restrictions and implementing user-friendly technologies to enhance the overall travel experience. The introduction of e-passports and automated immigration gates at airports has significantly streamlined the arrival process and reduced waiting times. Regarding the types of visitors, there has been a diversification in the profile of foreigners visiting Japan. While Japan has long been popular among tourists from neighboring Asian countries, such as China and South Korea, there has been a noticeable increase in visitors from other regions as well. Travelers from North America, Europe, and Australia have shown growing interest in exploring the rich cultural heritage and natural beauty of Japan.
+From 2017 to 2023, Japan has witnessed a significant growth in the number of foreign visitors. Over this period, the country has become an increasingly popular destination for travelers from all around the world. With its unique blend of traditional culture and modern amenities, Japan offers a captivating experience that appeals to a wide range of interests. In recent years, the Japanese government has actively promoted tourism, aiming to attract 40 million foreign visitors by 2020, an ambitious goal that was eventually achieved. This successful campaign, combined with the country's hosting of major international events such as the Rugby World Cup in 2019 and the Summer Olympics in 2021, has further boosted Japan's reputation as a must-visit destination. The introduction of e-passports and automated immigration gates at airports has significantly streamlined the arrival process and reduced waiting times. Regarding the types of visitors, there has been a diversification in the profile of foreigners visiting Japan. While Japan has long been popular among tourists from neighboring Asian countries, such as China and South Korea, there has been a noticeable increase in visitors from other regions as well. Travelers from North America, Europe, and Australia have shown growing interest in exploring the rich cultural heritage and natural beauty of Japan.
 
 ## About the dataset
 I got the dataset from kaggle. https://www.kaggle.com/datasets/risakashiwabara/japannumber-of-visitors-to-japan/data
@@ -27,7 +27,12 @@ I created another table called month to find the unique value for month to match
 And then I joined the tables together by the month column for each table using one to many relationship
 ![modeling](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/9dc82e93-bcea-4ff7-8090-dc9457684c34).
 
-## Visualization and Dashoard
+## Visualization and Dashboard
+![japan](https://github.com/AdekunleOjo/EDA-Numbers-of-visitors-to-japan/assets/55541028/601b1ae5-492b-4b0c-a927-6a1d9303a8c1)
+
+## Uncovered insights
+--lll
+--kkk
 
 
 
